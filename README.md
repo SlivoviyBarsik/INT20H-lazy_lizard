@@ -6,7 +6,7 @@ Our submission to the INT20H hackathon
 - File `utils.py` contains preprocessing functions;
 - File `uklon20h.ipynb` contains training of a Random Forest and prediction on test data.
 ___
-RMSE for a single edge (node to node): 2.11
+RMSE for a single edge (node to node) on validation data: 2.11
 
 
-RMSE for entire route: 87.15
+RMSE for entire route on validation data: 87.15
