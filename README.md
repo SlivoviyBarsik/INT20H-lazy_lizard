@@ -7,4 +7,6 @@ Our submission to the INT20H hackathon
 - File `uklon20h.ipynb` contains training of a Random Forest and prediction on test data.
 ___
 RMSE for a single edge (node to node): 2.11
+
+
 RMSE for entire route: 87.15
